@@ -1,14 +1,12 @@
-## ∆ We are Trinary.
+## ∆ We are Trinary
 
 Trinary is a collective of seasoned developers and technologists with 15+ years of experience crafting scalable web applications. We specialize in building intelligent digital solutions that merge AI, automation, and data analytics to solve real-world operational challenges.
 
 > **Our mission**: help companies move faster, work smarter, and unlock the full potential of their digital workflows.
 
-Whether it's shipping clean code, automating complex processes, or designing systems that learn and adapt — we build with purpose and precision.
+Whether it's shipping clean code, automating complex processes, or designing systems that learn and adapt — we build with purpose and precision. You can learn more here: [https://trinary.ca/](https://trinary.ca/)
 
-You can learn more about us here: [https://trinary.ca/](https://trinary.ca/)
-
-### 🚀 Services We Offer
+### 🚀 Services we offer
 
 - **Custom Web Application Development**: Full-stack solutions built with scalability, performance, and maintainability in mind.
 - **AI & Machine Learning Integration**: Embedding intelligent models into business systems — from predictive analytics to generative tools.
@@ -18,9 +16,7 @@ You can learn more about us here: [https://trinary.ca/](https://trinary.ca/)
 - **Technical Strategy & Consulting**: Architecture audits, product planning, and helping teams make better technical decisions faster.
 - **API Design & Systems Integration**: Robust, secure, and developer-friendly APIs for connecting platforms and services.
 
----
-
-### 🧠 Areas of Expertise
+### 🧠 Areas of expertise
 
 - **Web frameworks**: Astro, Vue, Laravel
 - **Backend stacks**: Node.js, Python, Go, PHP, MariaDB, PostgreSQL
