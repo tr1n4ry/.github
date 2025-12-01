@@ -18,12 +18,12 @@ Whether it's shipping clean code, automating complex processes, or designing sys
 
 ### 🧠 Areas of expertise
 
-- **Web frameworks**: Astro, Vue, Laravel
+- **Web frameworks**: Laravel, Vue.js
 - **Backend stacks**: Node.js, Python, Go, PHP, MariaDB, PostgreSQL
-- **AI tools**: OpenAI, Anthropic, Groq, LangChain, Hugging Face, custom model deployment
-- **Cloud platforms**: AWS, GCP, DigitalOcean, Vercel
-- **DevOps tools**: Docker, Kubernetes, Terraform, GitHub Actions
-- **RPA & automation**: N8N, Zapier, custom bots/scripts
+- **AI tools**: OpenAI, Anthropic, Groq, LangChain, Hugging Face, Custom model development
+- **Cloud platforms**: AWS, GCP, OVHcloud, Vercel, Cloudflare
+- **DevOps tools**: Git, Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI
+- **RPA & automation**: N8N, Zapier, Custom bots/scripts development
 - **Real-time systems**: WebSockets, Firebase, Redis Pub/Sub
 - **Security & scalability best practices**
 
@@ -35,3 +35,4 @@ Whether it's shipping clean code, automating complex processes, or designing sys
 - 🦄 Randi ([@happybunnyz](https://github.com/happybunnyz))
 - 🥃 Mike ([@mikehins](https://github.com/mikehins))
 - 🥐 Pauline ([@PaulineHub](https://github.com/PaulineHub))
+- 🦎 Denis ([@denisdotdev](https://github.com/denisdotdev))
